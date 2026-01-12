@@ -2,11 +2,11 @@
 
 Hi there I'm Keerthivasan Murugesan Don't Wish for it Work for it
 
-I'm a Data Scientist Enthusiast!!
+I'm a Data Engineer!!
 
-🔭 I’m currently working on Machine learning and Computer vision projects
+🔭 I’m currently working on Apache spark.
 
-🌱 I’m currently learning Computer vision and Deep Learning
+🌱 I’m currently learning Machine learning.
 
 👯 I’m looking to collaborate on various projects related to computer vision,machine learning and Deep Learning
 
